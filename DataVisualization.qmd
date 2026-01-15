@@ -23,7 +23,6 @@ format:
 In this project, my classmate and I were paired with three students from the science school. Our mission was to develop an innovative solution to help <span class="highlight">reduce food waste in Singapore</span>.
 </div>
 
-##
 ## 💡 Our Solution
 
 <div class="solution-box">
