@@ -1,11 +1,27 @@
----
-title: "temp_website"
----
+<div class="hero-banner">
+  <h1 style="margin: 0; font-size: 2.5rem;">👋 Welcome to My Portfolio</h1>
+  <p style="font-size: 1.2rem; margin: 1rem 0 0 0;">Exploring the intersection of finance, technology, and data</p>
+</div>
+  
+<h2 style="color: #667eea; margin-top: 0;">Hello Everyone! 👋</h2>
+<p style="font-size: 1.1rem; line-height: 1.8;">
+      It's a pleasure meeting you virtually! I'm <strong>Kenneth</strong>, and welcome to my first Quarto website. This platform serves as a digital portfolio showcasing my journey, projects, and experiences as I navigate the exciting world of fintech and data analytics.
+</p>
+    
 
-This is a Quarto website.
+## 🎓 Current Academic Journey
+<p style="margin: 0;">
+  I am currently a <strong>Year 2 student at Singapore Institute of Technology (SIT)</strong>, pursuing a degree in <strong>Business Analytics and Computing (BAC) with a specialization in Fintech</strong>. This interdisciplinary program allows me to bridge the gap between business, technology, and financial innovation.
+</p>
+  
+    
+## 🌟 Beyond the Classroom
+<p style="line-height: 1.8;">
+      When I'm not diving into data or exploring fintech applications, I enjoy pursuing various interests that keep me balanced and energized like Basketball and Badminton.
+</p>
+    
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+## What Drives Me
+<p style="margin: 0; line-height: 1.8;">
+I'm passionate about leveraging data and technology to solve real-world problems. My interdisciplinary background allows me to approach challenges from multiple perspectives, combining analytical rigor with creative problem-solving. Through this website, I hope to share my learning journey and the projects that reflect my growth.
+</p>

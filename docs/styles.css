@@ -1,1 +1,340 @@
 /* css styles */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+}
+
+h1, {
+  font-size: 16pt;
+}
+
+h3,h4 {
+  font-size: 14pt;
+}
+
+.hero-section {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+  
+  .project-overview {
+    background-color: #f8f9fa;
+    padding: 1.5rem;
+    border-left: 4px solid #667eea;
+    border-radius: 5px;
+    margin: 1.5rem 0;
+  }
+  
+  .solution-box {
+    background-color: #e7f3ff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin: 1.5rem 0;
+    border: 2px solid #2196F3;
+  }
+  
+  .viz-container {
+    text-align: center;
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  .viz-container img {
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    transition: transform 0.3s ease;
+  }
+  
+  .viz-container img:hover {
+    transform: scale(1.02);
+  }
+  
+  .caption {
+    font-style: italic;
+    color: #666;
+    margin-top: 1rem;
+    font-size: 0.95rem;
+  }
+  
+  .highlight {
+    background-color: #fff3cd;
+    padding: 0.2rem 0.4rem;
+    border-radius: 3px;
+  }
+  
+  h2 {
+    color: #667eea;
+    border-bottom: 2px solid #667eea;
+    padding-bottom: 0.5rem;
+    margin-top: 2rem;
+  }
+  
+  .team-info {
+    background: linear-gradient(to right, #f093fb 0%, #f5576c 100%);
+    color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    font-weight: 500;
+    margin: 1rem 0;
+  }
+  
+  .pros-cons-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
+  
+  .benefit-card {
+    background: linear-gradient(135deg, #d4fc79 0%, #96e6a1 100%);
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+  }
+  
+  .benefit-card h3 {
+    color: #1b5e20;
+    margin-top: 0;
+    font-size: 1.1rem;
+  }
+  
+  .challenge-card {
+    background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+  }
+  
+  .challenge-card h3 {
+    color: #bf360c;
+    margin-top: 0;
+    font-size: 1.1rem;
+  }
+  
+  .tool-spotlight {
+    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+    padding: 1.5rem;
+    border-radius: 10px;
+    color: white;
+    margin: 2rem 0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  }
+  
+  .tool-spotlight h3 {
+    margin-top: 0;
+    color: white;
+  }
+  
+  .purpose-box {
+    background: linear-gradient(to right, #e0c3fc 0%, #8ec5fc 100%);
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin: 1.5rem 0;
+    border-left: 5px solid #667eea;
+  }
+  
+  .purpose-box strong {
+    color: #4a148c;
+  }
+  
+  .icon-badge {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    display: block;
+  }
+  
+  .hero-banner {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 3rem 2rem;
+    border-radius: 15px;
+    margin-bottom: 2rem;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+    text-align: center;
+  }
+  
+  .intro-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 2rem;
+    margin: 2rem 0;
+    align-items: start;
+  }
+  
+  @media (max-width: 768px) {
+    .intro-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  .profile-section {
+    text-align: center;
+    background: white;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    position: sticky;
+    top: 2rem;
+  }
+  
+  .profile-placeholder {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem;
+    box-shadow: 0 6px 15px rgba(102, 126, 234, 0.4);
+    font-size: 4rem;
+    color: white;
+  }
+  
+  .profile-name {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #667eea;
+    margin: 0.5rem 0;
+  }
+  
+  .profile-title {
+    color: #888;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+  
+  .social-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #f0f0f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+    text-decoration: none;
+  }
+  
+  .social-icon:hover {
+    background: #667eea;
+    color: white;
+    transform: translateY(-3px);
+  }
+  
+  .content-section {
+    background: white;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  .info-card {
+    background: linear-gradient(to right, #e0c3fc 0%, #8ec5fc 100%);
+    padding: 1.5rem;
+    border-radius: 10px;
+    margin: 1.5rem 0;
+    border-left: 5px solid #667eea;
+  }
+  
+  .info-card h3 {
+    color: #4a148c;
+    margin-top: 0;
+    font-size: 1.2rem;
+  }
+  
+  .hobbies-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0;
+  }
+  
+  .hobby-item {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    border: 2px solid #e0e0e0;
+  }
+  
+  .hobby-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(102, 126, 234, 0.3);
+    border-color: #667eea;
+  }
+  
+  .hobby-icon {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .cta-section {
+    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+    color: white;
+    padding: 2rem;
+    border-radius: 15px;
+    text-align: center;
+    margin: 2rem 0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  }
+  
+  .explore-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+  
+  .explore-card {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  .explore-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+  }
+  
+  .explore-card h4 {
+    color: #667eea;
+    margin: 0.5rem 0;
+  }
+  
+  .badge {
+    display: inline-block;
+    background: rgba(255,255,255,0.2);
+    padding: 0.3rem 0.8rem;
+    border-radius: 15px;
+    font-size: 0.9rem;
+    margin: 0.2rem;
+  }

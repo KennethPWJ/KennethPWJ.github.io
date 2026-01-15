@@ -1,0 +1,62 @@
+---
+title: "Data Visualization"
+format: 
+  html:
+    toc: true
+    toc-location: left
+    theme: cosmo
+    css: styles.css
+---
+
+<div class="hero-section">
+  <h1 style="margin-top: 0;">🌱 Sustainable Hand Sanitizer Project</h1>
+  <p style="font-size: 1.1rem; margin-bottom: 0;">Turning Food Waste into Personal Care Solutions</p>
+</div>
+
+<div class="team-info">
+  👥 <strong>Collaborative Project:</strong> Partnership between data science and science school students
+</div>
+
+## 🎯 Project Overview
+
+<div class="project-overview">
+In this project, my classmate and I were paired with three students from the science school. Our mission was to develop an innovative solution to help <span class="highlight">reduce food waste in Singapore</span>.
+</div>
+
+##
+## 💡 Our Solution
+
+<div class="solution-box">
+  <h3 style="margin-top: 0; color: #2196F3;">♻️ From Waste to Wellness</h3>
+  <p>We developed a sustainable hand sanitizer by collecting:</p>
+  <ul>
+    <li><strong>Sugarcane resin</strong> from local sugarcane stores</li>
+    <li><strong>Orange peels</strong> from iJooz outlets</li>
+  </ul>
+  <p>These materials were transformed into an effective hand sanitizer, marketed during the COVID-19 period to meet the high demand for hygiene products.</p>
+</div>
+
+## 📊 Survey Insights
+
+<div class="viz-container">
+  ![Data Visualization Poster](img/Data Visualization.png){width=80%}
+  
+  <p class="caption">
+    <strong>Figure 1:</strong> Consumer preferences survey results showing preferences for scented vs. unscented hand sanitizer and desired product consistency
+  </p>
+</div>
+
+### Key Findings
+
+The data visualization above reveals important consumer feedback regarding:
+
+- **Scent preferences**: Whether customers preferred scented or unscented formulations
+- **Product consistency**: Consumer opinions on the desired liquidity/texture of the hand sanitizer
+
+These insights guided our product development to better align with market demands.
+
+---
+
+<div style="text-align: center; color: #888; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #ddd;">
+  <em>Project completed as part of interdisciplinary sustainability initiative</em>
+</div>

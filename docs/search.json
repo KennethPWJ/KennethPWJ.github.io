@@ -2,8 +2,120 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "\n👋 Welcome to My Portfolio\n",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Exploring the intersection of finance, technology, and data\nIt’s a pleasure meeting you virtually! I’m Kenneth, and welcome to my first Quarto website. This platform serves as a digital portfolio showcasing my journey, projects, and experiences as I navigate the exciting world of fintech and data analytics."
+  },
+  {
+    "objectID": "DataVisualization.html",
+    "href": "DataVisualization.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Turning Food Waste into Personal Care Solutions"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Polytechnic Project",
+    "section": "",
+    "text": "Prior to entering SIT, I was enrolled in NYP Business Intelligence and Analytics diploma program. This foundation equipped me with analytical skills and data-driven thinking that continue to shape my approach to problem-solving."
+  },
+  {
+    "objectID": "DataVisualization.html#project-overview",
+    "href": "DataVisualization.html#project-overview",
+    "title": "Data Visualization",
+    "section": "🎯 Project Overview",
+    "text": "🎯 Project Overview\n\nIn this project, my classmate and I were paired with three students from the science school. Our mission was to develop an innovative solution to help reduce food waste in Singapore."
+  },
+  {
+    "objectID": "DataVisualization.html#our-solution",
+    "href": "DataVisualization.html#our-solution",
+    "title": "Data Visualization",
+    "section": "💡 Our Solution",
+    "text": "💡 Our Solution\n\n\n♻️ From Waste to Wellness\n\n\nWe developed a sustainable hand sanitizer by collecting:\n\n\n\nSugarcane resin from local sugarcane stores\n\n\nOrange peels from iJooz outlets\n\n\n\nThese materials were transformed into an effective hand sanitizer, marketed during the COVID-19 period to meet the high demand for hygiene products."
+  },
+  {
+    "objectID": "DataVisualization.html#consumer-insights",
+    "href": "DataVisualization.html#consumer-insights",
+    "title": "Data Visualization",
+    "section": "📊 Consumer Insights",
+    "text": "📊 Consumer Insights\n\n\n\n\nData Visualization Poster\n\n\n\nFigure 1: Consumer preferences survey results showing preferences for scented vs. unscented hand sanitizer and desired product consistency\n\n\n\nKey Findings\nThe data visualization above reveals important consumer feedback regarding:\n\nScent preferences: Whether customers preferred scented or unscented formulations\nProduct consistency: Consumer opinions on the desired liquidity/texture of the hand sanitizer\n\nThese insights guided our product development to better align with market demands.\n\n\nProject completed as part of interdisciplinary sustainability initiative"
+  },
+  {
+    "objectID": "about.html#academic-background",
+    "href": "about.html#academic-background",
+    "title": "Polytechnic Project",
+    "section": "",
+    "text": "Prior to entering SIT, I was enrolled in NYP Business Intelligence and Analytics diploma program. This foundation equipped me with analytical skills and data-driven thinking that continue to shape my approach to problem-solving."
+  },
+  {
+    "objectID": "about.html#the-sustainability-challenge",
+    "href": "about.html#the-sustainability-challenge",
+    "title": "Polytechnic Project",
+    "section": "🌱 The Sustainability Challenge",
+    "text": "🌱 The Sustainability Challenge\n\n\nYear 2 Collaborative Project\n\n\nDuring our second year, we were tasked with an exciting interdisciplinary challenge: collaborating with students from the science school to create a sustainable product that could help reduce food waste in Singapore.\n\n\nThis project brought together our business analytics expertise with scientific innovation to address a real-world environmental concern."
+  },
+  {
+    "objectID": "about.html#project-deliverables",
+    "href": "about.html#project-deliverables",
+    "title": "Polytechnic Project",
+    "section": "📋 Project Deliverables",
+    "text": "📋 Project Deliverables\n\n\n\n\nMarketing Strategy Poster\n\n\n\nFigure 1: Comprehensive project poster showcasing our marketing strategy and project development framework\n\n\n\n🔍 What the Poster Demonstrates\n\n📊 Marketing Strategy\n\n\nOur comprehensive approach to bringing the sustainable product to market, including target audience analysis and positioning.\n\n\n🎯 Problem Statement\n\n\nThe systematic process we used to identify and define the food waste challenge in Singapore.\n\n\n🔄 Development Process\n\n\nStep-by-step documentation of our project journey from concept to final product.\n\n\n📚 Curriculum Integration\n\n\nApplication of key concepts and methodologies learned throughout our diploma program.\n\nThe poster above synthesizes all the relevant information taught during our curriculum, demonstrating how we applied theoretical knowledge to a practical sustainability challenge.\n\n\n🎓 Academic project completed at Nanyang Polytechnic | Business Intelligence & Analytics"
+  },
+  {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "For this project, I utilized Claude as my GenAI tool to enhance the visual appeal of my website. Claude’s ability to generate sophisticated CSS styling and provide design guidance made it the perfect assistant for this creative endeavor."
+  },
+  {
+    "objectID": "Reflection.html#tool-selection",
+    "href": "Reflection.html#tool-selection",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "For this project, I utilized Claude as my GenAI tool to enhance the visual appeal of my website. Claude’s ability to generate sophisticated CSS styling and provide design guidance made it the perfect assistant for this creative endeavor."
+  },
+  {
+    "objectID": "Reflection.html#purpose-rationale",
+    "href": "Reflection.html#purpose-rationale",
+    "title": "Reflection on the use of GenAI",
+    "section": "🎯 Purpose & Rationale",
+    "text": "🎯 Purpose & Rationale\n\n\nWhy GenAI? I chose to use GenAI for this purpose because it can help provide quick, reusable CSS styling that can make my whole website look more attractive and captivating to users."
+  },
+  {
+    "objectID": "Reflection.html#the-experience-benefits-challenges",
+    "href": "Reflection.html#the-experience-benefits-challenges",
+    "title": "Reflection on the use of GenAI",
+    "section": "🔄 The Experience: Benefits & Challenges",
+    "text": "🔄 The Experience: Benefits & Challenges\n\nThe Beneficial Aspect\n\n\nThe most valuable aspect of using GenAI was its ability to generate quick, reusable CSS styling that elevated the entire website’s visual appeal. This dramatically reduced development time while maintaining professional quality.\n\n\nThe Challenge\n\n\nThe challenging part was learning to clearly define the design I wanted to adopt. GenAI tools like Claude can generate a wide variety of design styles, and if the prompt is not specific enough, the generated design may not align with my vision."
+  },
+  {
+    "objectID": "DataVisualization.html#survey-insights",
+    "href": "DataVisualization.html#survey-insights",
+    "title": "Data Visualization",
+    "section": "📊 Survey Insights",
+    "text": "📊 Survey Insights\n\n\n\n\nData Visualization Poster\n\n\n\nFigure 1: Consumer preferences survey results showing preferences for scented vs. unscented hand sanitizer and desired product consistency\n\n\n\nKey Findings\nThe data visualization above reveals important consumer feedback regarding:\n\nScent preferences: Whether customers preferred scented or unscented formulations\nProduct consistency: Consumer opinions on the desired liquidity/texture of the hand sanitizer\n\nThese insights guided our product development to better align with market demands.\n\n\nProject completed as part of interdisciplinary sustainability initiative"
+  },
+  {
+    "objectID": "index.html#current-academic-journey",
+    "href": "index.html#current-academic-journey",
+    "title": "\n👋 Welcome to My Portfolio\n",
+    "section": "🎓 Current Academic Journey",
+    "text": "🎓 Current Academic Journey\n\nI am currently a Year 2 student at Singapore Institute of Technology (SIT), pursuing a degree in Business Analytics and Computing (BAC) with a specialization in Fintech. This interdisciplinary program allows me to bridge the gap between business, technology, and financial innovation."
+  },
+  {
+    "objectID": "index.html#beyond-the-classroom",
+    "href": "index.html#beyond-the-classroom",
+    "title": "\n👋 Welcome to My Portfolio\n",
+    "section": "🌟 Beyond the Classroom",
+    "text": "🌟 Beyond the Classroom\n\nWhen I’m not diving into data or exploring fintech applications, I enjoy pursuing various interests that keep me balanced and energized like Basketball and Badminton."
+  },
+  {
+    "objectID": "index.html#what-drives-me",
+    "href": "index.html#what-drives-me",
+    "title": "\n👋 Welcome to My Portfolio\n",
+    "section": "What Drives Me",
+    "text": "What Drives Me\n\nI’m passionate about leveraging data and technology to solve real-world problems. My interdisciplinary background allows me to approach challenges from multiple perspectives, combining analytical rigor with creative problem-solving. Through this website, I hope to share my learning journey and the projects that reflect my growth."
   }
 ]

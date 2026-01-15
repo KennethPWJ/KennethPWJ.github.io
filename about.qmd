@@ -1,9 +1,57 @@
 ---
-title: "About"
+title: "Polytechnic Project"
 ---
 
-About this site
+## 🏫 Academic Background
 
-```{r}
-1 + 1
-```
+<div class="background-section">
+  <p style="margin: 0; font-size: 1.05rem;">
+    <strong>Prior to entering SIT,</strong> I was enrolled in <span class="highlight-text">NYP Business Intelligence and Analytics</span> diploma program. This foundation equipped me with analytical skills and data-driven thinking that continue to shape my approach to problem-solving.
+  </p>
+</div>
+
+## 🌱 The Sustainability Challenge
+
+<div class="project-context">
+  <p><span class="timeline-dot"></span><strong>Year 2 Collaborative Project</strong></p>
+  <p>
+    During our second year, we were tasked with an exciting interdisciplinary challenge: collaborating with students from the <strong>science school</strong> to create a sustainable product that could help <span class="highlight-text">reduce food waste in Singapore</span>.
+  </p>
+  <p style="margin-bottom: 0;">
+    This project brought together our business analytics expertise with scientific innovation to address a real-world environmental concern.
+  </p>
+</div>
+
+## 📋 Project Deliverables
+
+<div class="poster-showcase">
+  ![Marketing Strategy Poster](img/poster.png){width=85%}
+  
+  <p class="poster-caption">
+    <strong>Figure 1:</strong> Comprehensive project poster showcasing our marketing strategy and project development framework
+  </p>
+</div>
+
+### 🔍 What the Poster Demonstrates
+
+<h3>📊 Marketing Strategy</h3>
+<p>Our comprehensive approach to bringing the sustainable product to market, including target audience analysis and positioning.</p>
+  
+<h3>🎯 Problem Statement</h3>
+<p>The systematic process we used to identify and define the food waste challenge in Singapore.</p>
+  
+<h3>🔄 Development Process</h3>
+<p>Step-by-step documentation of our project journey from concept to final product.</p>
+  
+<h3>📚 Curriculum Integration</h3>
+<p>Application of key concepts and methodologies learned throughout our diploma program.</p>
+
+
+The poster above synthesizes all the relevant information taught during our curriculum, demonstrating how we applied theoretical knowledge to a practical sustainability challenge.
+
+---
+
+<div style="text-align: center; color: #888; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #ddd;">
+  <em>🎓 Academic project completed at Nanyang Polytechnic | Business Intelligence & Analytics</em>
+</div>
+

@@ -1,0 +1,37 @@
+---
+title: "Reflection on the use of GenAI"
+format: html
+---
+
+## 🎨 Tool Selection
+
+<div class="tool-spotlight">
+  <h3>🔧 My GenAI Tool of Choice</h3>
+  <p style="margin-bottom: 0; font-size: 1.05rem;">
+    For this project, I utilized <strong>Claude</strong> as my GenAI tool to enhance the visual appeal of my website. Claude's ability to generate sophisticated CSS styling and provide design guidance made it the perfect assistant for this creative endeavor.
+  </p>
+</div>
+
+## 🎯 Purpose & Rationale
+
+<div class="purpose-box">
+  <p style="margin: 0;">
+    <strong>Why GenAI?</strong> I chose to use GenAI for this purpose because it can help provide <span class="highlight">quick, reusable CSS styling</span> that can make my whole website look more attractive and captivating to users.
+  </p>
+</div>
+
+
+## 🔄 The Experience: Benefits & Challenges
+
+
+
+<h3>The Beneficial Aspect</h3>
+<p>
+The most valuable aspect of using GenAI was its ability to generate <strong>quick, reusable CSS styling</strong> that elevated the entire website's visual appeal. This dramatically reduced development time while maintaining professional quality.
+</p>
+  
+
+<h3>The Challenge</h3>
+<p>
+The challenging part was learning to <strong>clearly define the design</strong> I wanted to adopt. GenAI tools like Claude can generate a wide variety of design styles, and if the prompt is not specific enough, the generated design may not align with my vision.
+</p>

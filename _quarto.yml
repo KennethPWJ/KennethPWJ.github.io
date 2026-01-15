@@ -3,12 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Kenneth Website"
+  favicon: favicon.png
   navbar:
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Projects
+      - href: DataVisualization.qmd
+        text: Data Visualization
+      - href: Reflection.qmd
+        text: Reflection
 
 format:
   html:
@@ -17,6 +24,8 @@ format:
       - brand
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 
 
